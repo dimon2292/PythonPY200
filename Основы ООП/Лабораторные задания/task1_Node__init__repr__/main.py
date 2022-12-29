@@ -1,6 +1,6 @@
 from typing import Any, Optional
 
-
+    #dvwgrgergeg
 class Node:
     """ Класс, который описывает узел связного списка. """
 
